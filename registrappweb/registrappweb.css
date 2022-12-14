@@ -1,0 +1,36 @@
+#background {
+    background-color: rgb(61, 1, 1);
+    margin-top: 2%;
+    font-weight: bold;
+    padding: 5%;
+    font-family: monospace;
+    border-radius: 3%;
+    border-style: hidden;
+}
+
+#title {
+    font-family: monospace;
+}
+
+.qes {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+}
+
+.pasos {
+    background-color:  rgb(29, 1, 1);
+    border-radius: 10px;
+    border-color: gray;
+    border-width: 2%;
+}
+
+.btndescarga {
+    background-color: rgb(68, 0, 0);
+}
